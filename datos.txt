@@ -1,0 +1,39 @@
+Procedimiento
+
+
+PS C:\WINDOWS\system32> cd ~
+PS C:\Users\juanm> cd desktop
+PS C:\Users\juanm\desktop> mkdir practica_git_juan_rodriguez
+
+
+    Directorio: C:\Users\juanm\desktop
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----     14/09/2026  02:26 p. m.                practica_git_juan_rodriguez
+
+
+PS C:\Users\juanm\desktop> cd .\practica_git_juan_rodriguez\
+PS C:\Users\juanm\desktop\practica_git_juan_rodriguez> git init
+Initialized empty Git repository in C:/Users/juanm/Desktop/practica_git_juan_rodriguez/.git/
+PS C:\Users\juanm\desktop\practica_git_juan_rodriguez> New-Item README.md
+
+
+    Directorio: C:\Users\juanm\desktop\practica_git_juan_rodriguez
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----     14/09/2026  02:28 p. m.              0 README.md
+
+
+PS C:\Users\juanm\desktop\practica_git_juan_rodriguez> New-Item datos.txt
+
+
+    Directorio: C:\Users\juanm\desktop\practica_git_juan_rodriguez
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----     14/09/2026  02:29 p. m.              0 datos.txt
