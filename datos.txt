@@ -37,3 +37,4 @@ PS C:\Users\juanm\desktop\practica_git_juan_rodriguez> New-Item datos.txt
 Mode                 LastWriteTime         Length Name
 ----                 -------------         ------ ----
 -a----     14/09/2026  02:29 p. m.              0 datos.txt
+Este Archivo fue modificado desde github 
